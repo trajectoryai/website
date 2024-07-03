@@ -1,0 +1,66 @@
+googleAnalytics = "UA-41605347-1"
+baseurl = "https://joshcarp.com/"
+title = "Joshua Carpeggiani"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[params]
+    author = "Joshua Carpeggiani"
+    info = "Software Engineer"
+    description = "Joshua Carpeggiani's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "https://secure.gravatar.com/avatar/8f3ae66a1b3c1494de8971e428e9b6ae?s=500"
+
+    favicon_32 = "favicon.ico"
+    favicon_16 = "favicon.ico"
+
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+    math = true
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/joshcarp/"
+[[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    weight = 2
+    url = "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=josh@joshcarp.com&tf=1"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/joshcarp/"
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+[[menu.main]]
+    name = "Talks"
+    weight = 3
+    url = "/talks/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "/projects/"

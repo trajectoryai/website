@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Carpeggiani</title>
+    <link>https://joshcarp.com/</link>
+    <description>Recent content on Joshua Carpeggiani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://joshcarp.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://joshcarp.com/about/</link>
+      <pubDate>Tue, 05 Nov 2019 19:22:47 +1100</pubDate>
+      <guid>https://joshcarp.com/about/</guid>
+      <description>I am a Software Engineer with a focus on developer tooling and community engagement. Experienced in Protobuf, SRE, Golang, Python, Cloud, Kubernetes, API design and more. This website serves as a collection of resources I find usefull and my experience with different topics. Hope you enjoy!
+Contact me at josh@joshcarp.com Linkedin GitHub</description>
+    </item>
+  </channel>
+</rss>

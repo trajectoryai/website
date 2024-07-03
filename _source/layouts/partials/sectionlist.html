@@ -1,0 +1,19 @@
+<section class="container list">
+  <h1 class="title">
+    {{- if eq .Kind "taxonomy" -}}
+      {{- i18n .Data.Singular | title -}}
+      {{- print ": " -}}
+    {{- end -}}
+
+    {{- .Title -}}
+  </h1>
+  <ul>
+    {{ range .Params.Presentations }}
+    <li>
+      <span class="date">{{.Date}}</span>
+      <a class="title" href="{{ .Link | default .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+</section>
