@@ -24,8 +24,8 @@ isHTML = true
     keywords = "community"
     avatarurl = "/images/trajectoryai.png"
 
-    favicon_32 = "favicon.ico"
-    favicon_16 = "favicon.ico"
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
 
 
     hidecredits = true
