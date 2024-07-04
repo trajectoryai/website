@@ -45,4 +45,9 @@ isHTML = true
     icon = "fab fa-slack"
     weight = 3
     url = "https://canada-ais.slack.com"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 3
+    url = "https://github.com/trajectoryai"
 
