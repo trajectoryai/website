@@ -1,5 +1,5 @@
 googleAnalytics = "UA-41605347-1"
-baseurl = "https://joshcarp.com/"
+baseurl = "https://trajectory.joshcarp.com/"
 title = "Trajectory"
 theme = "hugo-coder"
 languagecode = "en"
