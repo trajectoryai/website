@@ -1,6 +1,5 @@
 ---
 title: "Home"
-date: 2019-11-05T19:22:47+11:00
 ---
 
 
@@ -13,7 +12,6 @@ At Trajectory, we understand the importance of advancing AI in a way that benefi
 Trajectory is located at [100 University Ave](https://maps.app.goo.gl/v1LEbqWVmmVQGxpcA). To sign up to be a member, you can fill out our [form](https://airtable.com/appATvokZwUid8pMG/shrvbbpq9clEvXaOH).
 
 Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) through [Effective Altriusm](https://www.effectivealtruism.org/). 
-
 
 
 # Contact
@@ -30,6 +28,10 @@ Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) t
 - [Mario Gibney](https://www.linkedin.com/in/mario-gibney-08bb7b45) - Founder of Trajectory.
 - [Giles Edkins](https://www.linkedin.com/in/giles-edkins/) - Developing a custom language model to [deepen understanding](https://alignedattention.wordpress.com/) of AI systems. Fostering community engagement through regular AI Safety Meetups and collaborative projects.
 - [Joshua Carpeggiani](https://joshcarp.com/) - Working on ML education and making technical concepts more accessible.
+- [Dan Valentine](https://www.linkedin.com/in/dan-valentine/) - AI Safety Researcher who has done empirical work on scalable oversight and adversarial robustness.
+- [Rubi Hudson](https://www.alignmentforum.org/users/rubi-j-hudson) - AI Safety Researcher 
+- [David Atanasov](https://www.linkedin.com/in/david-atanasov-530a60253/) - [AI Safety Researcher](https://arxiv.org/search/cs?searchtype=author&query=Atanasov,+D) focused on LLMs and concrete safety risks that the world is facing today.
+- [Kathrin Gardhouse](https://aigs.ca/team/kathrin-gardhouse/) Policy Lead at AIGS, Lawyer, AI Governance Consultant.
 
 # Friends of Trajectory
 
