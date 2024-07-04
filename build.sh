@@ -5,6 +5,3 @@ cd _source && hugo -t hugo-coder && cd ..
 rm -rf docs/*
 # Go To Public folder
 mv -f _source/public/* docs/
-
-# Add changes to git.
-git add -A
