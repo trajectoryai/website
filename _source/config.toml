@@ -18,11 +18,11 @@ mediaType = "text/html"
 isHTML = true
 
 [params]
-    author = "Trajectory"
-    info = "AI Safety, Toronto, Canada"
+    author = "TRAJECTORY"
+    info = "AI Safety Workspace in Toronto, Canada"
     description = "Working to make the future a safer place for humans"
     keywords = "community"
-    avatarurl = ""
+    avatarurl = "/images/trajectoryai.png"
 
     favicon_32 = "favicon.ico"
     favicon_16 = "favicon.ico"
@@ -39,19 +39,10 @@ isHTML = true
     name = "Email"
     icon = "fa fa-envelope"
     weight = 2
-    url = "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mariogibney@gmail.com&tf=1"
+    url = "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hello@trajectoryai.org&tf=1"
 [[params.social]]
     name = "Slack"
     icon = "fab fa-slack"
     weight = 3
     url = "https://canada-ais.slack.com"
 
-# Menu links
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
-[[menu.main]]
-  name = "Projects"
-  weight = 3
-  url = "/projects/"

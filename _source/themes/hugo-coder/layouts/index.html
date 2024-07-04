@@ -1,3 +1,8 @@
 {{ define "content" }}
+<main class="container">
   {{ partial "home.html" . }}
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</main>
 {{ end }}
