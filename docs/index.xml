@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joshua Carpeggiani</title>
+    <title>Index on Trajectory</title>
     <link>https://joshcarp.com/</link>
-    <description>Recent content on Joshua Carpeggiani</description>
+    <description>Recent content in Index on Trajectory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 05 Nov 2019 19:22:47 +1100</lastBuildDate>
     <atom:link href="https://joshcarp.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://joshcarp.com/about/</link>
       <pubDate>Tue, 05 Nov 2019 19:22:47 +1100</pubDate>
       <guid>https://joshcarp.com/about/</guid>
-      <description>I am a Software Engineer with a focus on developer tooling and community engagement. Experienced in Protobuf, SRE, Golang, Python, Cloud, Kubernetes, API design and more. This website serves as a collection of resources I find usefull and my experience with different topics. Hope you enjoy!
-Contact me at josh@joshcarp.com Linkedin GitHub</description>
+      <description>Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it&amp;rsquo;s a hub for innovation, collaboration, and the pursuit of a safer AI-driven future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a dynamic environment where creativity meets rigor, and groundbreaking ideas are nurtured to their full potential.
+At Trajectory, we understand the importance of advancing AI in a way that benefits humanity while safeguarding against potential risks.</description>
     </item>
   </channel>
 </rss>

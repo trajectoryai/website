@@ -3,11 +3,6 @@ title: "About"
 date: 2019-11-05T19:22:47+11:00
 ---
 
-I am a Software Engineer with a focus on developer tooling and community engagement. Experienced in Protobuf, SRE, Golang, Python, Cloud, Kubernetes, API design and more.
-<br>
-This website serves as a collection of resources I find usefull and my experience with different topics. 
-Hope you enjoy! 
+Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it's a hub for innovation, collaboration, and the pursuit of a safer AI-driven future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a dynamic environment where creativity meets rigor, and groundbreaking ideas are nurtured to their full potential.
 
-Contact me at <br> <josh@joshcarp.com> <br>
-[Linkedin](https://www.linkedin.com/in/joshcarp)<br>
-[GitHub](https://www.github.com/joshcarp)<br>
+At Trajectory, we understand the importance of advancing AI in a way that benefits humanity while safeguarding against potential risks.
