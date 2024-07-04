@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://trajectory.joshcarp.com/about/</loc>
+    <loc>https://trajectoryai.org/about/</loc>
     <lastmod>2019-11-05T19:22:47+11:00</lastmod>
   </url><url>
-    <loc>https://trajectory.joshcarp.com/categories/</loc>
+    <loc>https://trajectoryai.org/categories/</loc>
   </url><url>
-    <loc>https://trajectory.joshcarp.com/talks/foo/</loc>
+    <loc>https://trajectoryai.org/talks/foo/</loc>
   </url><url>
-    <loc>https://trajectory.joshcarp.com/projects/</loc>
+    <loc>https://trajectoryai.org/projects/</loc>
   </url><url>
-    <loc>https://trajectory.joshcarp.com/tags/</loc>
+    <loc>https://trajectoryai.org/tags/</loc>
   </url><url>
-    <loc>https://trajectory.joshcarp.com/talks/</loc>
+    <loc>https://trajectoryai.org/talks/</loc>
   </url><url>
-    <loc>https://trajectory.joshcarp.com/</loc>
+    <loc>https://trajectoryai.org/</loc>
   </url>
 </urlset>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trajectory</title>
-    <link>https://trajectory.joshcarp.com/</link>
+    <link>https://trajectoryai.org/</link>
     <description>Recent content on Trajectory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://trajectory.joshcarp.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trajectoryai.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://trajectory.joshcarp.com/about/</link>
+      <link>https://trajectoryai.org/about/</link>
       <pubDate>Tue, 05 Nov 2019 19:22:47 +1100</pubDate>
-      <guid>https://trajectory.joshcarp.com/about/</guid>
+      <guid>https://trajectoryai.org/about/</guid>
       <description>Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it&amp;rsquo;s a hub for innovation, collaboration, and the pursuit of a safer AI-driven future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a dynamic environment where creativity meets rigor, and groundbreaking ideas are nurtured to their full potential.
 At Trajectory, we understand the importance of advancing AI in a way that benefits humanity while safeguarding against potential risks.</description>
     </item>
