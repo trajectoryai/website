@@ -5,13 +5,13 @@ title: "TragectoryAI"
 
 ---
 # About
-Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it's a hub for innovation, collaboration, and the pursuit of a safer AI-driven future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a dynamic environment where creativity meets rigor, and groundbreaking ideas are nurtured to their full potential.
+Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it's a hub for collaboration in the pursuit of a safe and beneficial AI future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a focused environment where rigorous analysis and innovative solutions are cultivated to reduce the most serious risks from AI's rapid development.
 
-At Trajectory, we understand the importance of advancing AI in a way that benefits humanity while safeguarding against potential risks.
+At Trajectory, we understand the critical importance of safeguarding against potential risks associated with AI development. Our focus is on identifying, analyzing, and mitigating these risks to ensure that AI systems remain aligned with human values and interests.
 
 Trajectory is located at [100 University Ave](https://maps.app.goo.gl/v1LEbqWVmmVQGxpcA). To sign up to be a member, you can fill out our [form](https://airtable.com/appATvokZwUid8pMG/shrvbbpq9clEvXaOH).
 
-Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) through [Effective Altriusm](https://www.effectivealtruism.org/). 
+Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) through [Effective Altriusm Canada](https://effectivealtruismcanada.com/). 
 
 
 # Contact
