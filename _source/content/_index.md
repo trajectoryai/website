@@ -27,10 +27,11 @@ Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) t
 
 - [Mario Gibney](https://www.linkedin.com/in/mario-gibney-08bb7b45) -  Co-founder & Manager at Trajectory, Co-Founder & Advisor at AIGS Canada.
 - [Giles Edkins](https://www.linkedin.com/in/giles-edkins/) - Co-founder of Trajectory. Developing a custom language model to [deepen understanding](https://alignedattention.wordpress.com/) of AI systems. Fostering community engagement through regular AI Safety Meetups and collaborative projects.
-- [Joshua Carpeggiani](https://joshcarp.com/) - Working on ML education and making technical concepts [more accessible](https://gradalley.com).
+- [Joshua Carpeggiani](https://joshcarp.com/) - Working on ML education and making technical concepts more accessible at [Grad Alley](https://gradalley.com) as well as developing [educational systems to teach kids how to code](https://evy.dev).
 - [Dan Valentine](https://www.linkedin.com/in/dan-valentine/) - AI Safety Researcher who has done empirical work on scalable oversight and adversarial robustness.
 - [Rubi Hudson](https://www.alignmentforum.org/users/rubi-j-hudson) - AI Safety Researcher.
 - [David Atanasov](https://www.linkedin.com/in/david-atanasov-530a60253/) - AI Safety Researcher focused on LLMs and [concrete safety risks](https://arxiv.org/search/cs?searchtype=author&query=Atanasov,+D) that the world is facing today.
 - [Kathrin Gardhouse](https://aigs.ca/team/kathrin-gardhouse/) Policy Lead at AIGS, Lawyer, AI Governance Consultant.
 
+... and more
 
