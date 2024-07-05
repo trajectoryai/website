@@ -9,9 +9,9 @@ Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspac
 
 At Trajectory, we understand the critical importance of safeguarding against potential risks associated with AI development. Our focus is on identifying, analyzing, and mitigating these risks to ensure that AI systems remain aligned with human values and interests.
 
-Trajectory is located at [100 University Ave](https://maps.app.goo.gl/v1LEbqWVmmVQGxpcA). To sign up to be a member, you can fill out our [form](https://airtable.com/appATvokZwUid8pMG/shrvbbpq9clEvXaOH).
+Trajectory is located at [100 University Ave](https://maps.app.goo.gl/v1LEbqWVmmVQGxpcA), and is free to use for approved members working on reducing catastrophic AI risk. You can apply to become a member using [this form](https://airtable.com/appATvokZwUid8pMG/shrvbbpq9clEvXaOH).
 
-Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) through [Effective Altriusm Canada](https://effectivealtruismcanada.com/). 
+Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) through [Effective Altruism Canada](https://effectivealtruismcanada.com/). 
 
 
 # Contact
@@ -25,13 +25,13 @@ Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) t
 
 # People
 
-- [Mario Gibney](https://www.linkedin.com/in/mario-gibney-08bb7b45) -  Co-founder & Manager at Trajectory, Co-Founder & Advisor at AIGS Canada.
-- [Giles Edkins](https://www.linkedin.com/in/giles-edkins/) - Co-founder of Trajectory. Developing a custom language model to [deepen understanding](https://alignedattention.wordpress.com/) of AI systems. Fostering community engagement through regular AI Safety Meetups and collaborative projects.
+- [Mario Gibney](https://www.linkedin.com/in/mario-gibney-08bb7b45) -  Co-founder & Manager at Trajectory, Co-Founder & Advisor at [AIGS Canada](aigs.ca), Co-Organizer of Toronto AI Safety Meetup & MLTO Meetup
+- [Giles Edkins](https://www.linkedin.com/in/giles-edkins/) - Co-organizer of Toronto AI Safety Meetup. Developing a custom language model to [deepen understanding](https://alignedattention.wordpress.com/) of AI systems. Fostering community engagement through regular AI Safety Meetups and collaborative projects.
 - [Joshua Carpeggiani](https://joshcarp.com/) - Working on ML education and making technical concepts more accessible at [Grad Alley](https://gradalley.com) as well as developing [educational systems to teach kids how to code](https://evy.dev).
-- [Dan Valentine](https://www.linkedin.com/in/dan-valentine/) - AI Safety Researcher who has done empirical work on scalable oversight and adversarial robustness.
-- [Rubi Hudson](https://www.alignmentforum.org/users/rubi-j-hudson) - AI Safety Researcher.
+- [Dan Valentine](https://www.linkedin.com/in/dan-valentine/) - AI Safety Researcher working on scalable oversight and adversarial robustness.
+- [Rubi Hudson](https://www.alignmentforum.org/users/rubi-j-hudson) - AI Safety Researcher working on predictive models and theory-centered approaches to AI alignment.
 - [David Atanasov](https://www.linkedin.com/in/david-atanasov-530a60253/) - AI Safety Researcher focused on LLMs and [concrete safety risks](https://arxiv.org/search/cs?searchtype=author&query=Atanasov,+D) that the world is facing today.
-- [Kathrin Gardhouse](https://aigs.ca/team/kathrin-gardhouse/) Policy Lead at AIGS, Lawyer, AI Governance Consultant.
+- [Kathrin Gardhouse](https://aigs.ca/team/kathrin-gardhouse/) Policy Lead at [AIGS Canada](aigs.ca), Lawyer, AI Governance Consultant.
 
 ... and more
 
