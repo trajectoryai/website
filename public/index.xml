@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trajectory</title>
+    <link>http://localhost:35821/</link>
+    <description>Recent content on Trajectory</description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:35821/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install / Update PaperMod</title>
+      <link>http://localhost:35821/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/papermod/papermod-installation/</guid>
+      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>Features / Mods</title>
+      <link>http://localhost:35821/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>http://localhost:35821/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>http://localhost:35821/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:35821/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>http://localhost:35821/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>http://localhost:35821/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:35821/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:35821/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>TragectoryAI</title>
+      <link>http://localhost:35821/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35821/about/</guid>
+      <description>About Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it&amp;rsquo;s a hub for collaboration in the pursuit of a safe and beneficial AI future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a focused environment where rigorous analysis and innovative solutions are cultivated to reduce the most serious risks from AI&amp;rsquo;s rapid development.
+At Trajectory, we understand the critical importance of safeguarding against potential risks associated with AI development.</description>
+    </item>
+  </channel>
+</rss>

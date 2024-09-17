@@ -1,0 +1,4 @@
+baseURL: https://trajectoryai.org
+languageCode: en-us
+title: Trajectory
+theme: ["PaperMod"]

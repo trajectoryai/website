@@ -1,0 +1,6 @@
+[submodule "trajectoryai/themes/papermod"]
+	path = trajectoryai/themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "trajectoryai/themes/PaperMod"]
+	path = trajectoryai/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
