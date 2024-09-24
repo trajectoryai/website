@@ -1,0 +1,68 @@
+baseURL: "https://trajectoryai.org/"
+title: "TragectoryAI"
+paginate: 5
+theme: PaperMod
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+mainSections: ["posts", "meetups"]
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "TragectoryAI"
+  description: "A hub for collaboration in the pursuit of a safe and beneficial AI future, located in Toronto, Canada."
+  keywords: [AI Safety, Collaboration, Research, Toronto]
+  author: "TragectoryAI Team"
+  images: ["/images/trajectoryai.png"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  homeInfoParams:
+    Title: "Welcome to TragectoryAI"
+    Content: "Nestled in the heart of Toronto, Canada, Trajectory is a hub for collaboration in the pursuit of a safe and beneficial AI future. We provide a focused environment for professionals and researchers dedicated to AI safety."
+
+  socialIcons:
+    - name: email
+      url: "mailto:mariogibney@gmail.com"
+    - name: slack
+      url: "https://canada-ais.slack.com"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: meetups
+      name: Meetups
+      url: /meetups/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false

@@ -2,10 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://trajectoryai.org/categories/</loc>
+    <loc>https://trajectoryai.org/posts/240924-post-example/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/tags/ai-safety/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/240924-fronteir-labs/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/posts/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/240924-scaling-til-2030/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/tags/ethics/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/240924-hallucinations/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/240924-ai-risk-reduction/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/240924-predictive-models/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/meetups/240924-sparse-autoencoders/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/tags/research/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://trajectoryai.org/tags/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://trajectoryai.org/</loc>
+    <lastmod>2024-09-20T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://trajectoryai.org/categories/</loc>
+  </url><url>
+    <loc>https://trajectoryai.org/about/</loc>
   </url>
 </urlset>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on TragectoryAI</title>
+    <link>https://trajectoryai.org/tags/research/</link>
+    <description>Recent content in Research on TragectoryAI</description>
+    <image>
+      <title>TragectoryAI</title>
+      <url>https://trajectoryai.org/images/trajectoryai.png</url>
+      <link>https://trajectoryai.org/images/trajectoryai.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 10:00:00 -0400</lastBuildDate>
+    <atom:link href="https://trajectoryai.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Addressing Catastrophic Risks in AI Development</title>
+      <link>https://trajectoryai.org/posts/240924-post-example/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/posts/240924-post-example/</guid>
+      <description>&lt;h1 id=&#34;addressing-catastrophic-risks-in-ai-development&#34;&gt;Addressing Catastrophic Risks in AI Development&lt;/h1&gt;
+&lt;p&gt;As artificial intelligence continues to advance at an unprecedented rate, it&amp;rsquo;s crucial that we address the potential catastrophic risks associated with its development. At TragectoryAI, we&amp;rsquo;re committed to exploring and implementing safeguards to ensure that AI remains aligned with human values and interests.&lt;/p&gt;
+&lt;h2 id=&#34;key-areas-of-concern&#34;&gt;Key Areas of Concern&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Alignment Problem&lt;/strong&gt;: Ensuring AI systems&amp;rsquo; goals and actions align with human values.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robustness&lt;/strong&gt;: Developing AI that performs reliably in various environments and scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interpretability&lt;/strong&gt;: Creating AI systems whose decision-making processes can be understood and audited by humans.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;
+&lt;p&gt;At TragectoryAI, we&amp;rsquo;re tackling these challenges through:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Overview of the Frontier AI Labs</title>
+      <link>https://trajectoryai.org/meetups/240924-fronteir-labs/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/meetups/240924-fronteir-labs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/toronto-ai-aligners/events/303101742/?eventOrigin=group_upcoming_events&#34;&gt;Link to sign up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting here: Enter the lobby at 100 University Ave (right next to St Andrew subway station), and message Giles Edkins on the meetup app or call him on 647-823-4865 to be let up to room 6H.&lt;/p&gt;
+&lt;p&gt;What are the different frontier AI labs&amp;rsquo; attitudes towards safety? What kinds of safety agenda (if any) are they prioritizing? Annie will guide us.&lt;/p&gt;
+&lt;p&gt;We welcome a variety of backgrounds, opinions and experience levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Epoch AI: Can AI Scaling Continue Through 2030?</title>
+      <link>https://trajectoryai.org/meetups/240924-scaling-til-2030/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/meetups/240924-scaling-til-2030/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/toronto-ai-aligners/events/303101742/?eventOrigin=group_upcoming_events&#34;&gt;Link to sign up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting here: Enter the lobby at 100 University Ave (right next to St Andrew subway station), and message Giles Edkins on the meetup app or call him on 647-823-4865 to be let up to room 6H.&lt;/p&gt;
+&lt;p&gt;Epoch AI recently released a report estimating the amount AI training runs will continue to scale up by 2030. They could get big, and expensive, and deliver a lot in terms of increased capabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hallucination Detection &amp; Interpretability</title>
+      <link>https://trajectoryai.org/meetups/240924-hallucinations/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/meetups/240924-hallucinations/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/toronto-ai-aligners/events/303101748/?eventOrigin=group_upcoming_events&#34;&gt;Link to sign up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting here: Enter the lobby at 100 University Ave (right next to St Andrew subway station), and message Giles Edkins on the meetup app or call him on 647-823-4865 to be let up to room 6H.&lt;/p&gt;
+&lt;p&gt;We all know that Large Language Models (LLMs) can confidently emit falsehoods, a phenomenon known as hallucination. Joshua Carpeggiani will tell us about some interpretability methods - peering into the insides of the model and making sense of what we see - that might help detect and correct hallucinations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Contribute to AI Risk Reduction</title>
+      <link>https://trajectoryai.org/meetups/240924-ai-risk-reduction/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/meetups/240924-ai-risk-reduction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/toronto-ai-aligners/events/303101751/?eventOrigin=group_upcoming_events&#34;&gt;Link to sign up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting here: Enter the lobby at 100 University Ave (right next to St Andrew subway station), and message Giles Edkins on the meetup app or call him on 647-823-4865 to be let up to room 6H.&lt;/p&gt;
+&lt;p&gt;Some of you want to help out, and that&amp;rsquo;s great! Giles will guide through some of the best resources available today for those of us wanting to address the most severe harms from AI. The focus will be on how to get doing cool stuff quickly, and how to stay networked with the community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predictive Models</title>
+      <link>https://trajectoryai.org/meetups/240924-predictive-models/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/meetups/240924-predictive-models/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/toronto-ai-aligners/events/303101704/?eventOrigin=group_upcoming_events&#34;&gt;Link to sign up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting here: Enter the lobby at 100 University Ave (right next to St Andrew subway station), and message Giles Edkins on the meetup app or call him on 647-823-4865 to be let up to room 6H.&lt;/p&gt;
+&lt;p&gt;Rubi Hudson will introduce us to Predictive Models, how they might help address existential risks from AI, as well as some of the dangers and caveats of this approach.&lt;/p&gt;
+&lt;p&gt;Today&amp;rsquo;s (pretrained) large language models can be thought of as systems that predict text. With systems such as GPT-4o we are already seeing this augmented with predictive capabilities for other modalities such as audio and video. And in theory it can be extended to predict anything that can be measured.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predictive Models</title>
+      <link>https://trajectoryai.org/meetups/240924-sparse-autoencoders/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/meetups/240924-sparse-autoencoders/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/toronto-ai-aligners/events/303101718/?eventOrigin=group_upcoming_events&#34;&gt;Link to sign up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting here: Enter the lobby at 100 University Ave (right next to St Andrew subway station), and message Giles Edkins on the meetup app or call him on 647-823-4865 to be let up to room 6H.&lt;/p&gt;
+&lt;p&gt;Neural networks - and transformers in particular - exhibit an irritating phenomenon. When trying to interpret each individual neuron, it is often polysemantic: activating in two or more seemingly unrelated contexts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
