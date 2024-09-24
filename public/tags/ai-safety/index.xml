@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TragectoryAI</title>
-    <link>http://localhost:55193/</link>
-    <description>Recent content on TragectoryAI</description>
+    <title>AI Safety on TragectoryAI</title>
+    <link>http://localhost:55193/tags/ai-safety/</link>
+    <description>Recent content in AI Safety on TragectoryAI</description>
     <image>
       <title>TragectoryAI</title>
       <url>http://localhost:55193/images/trajectoryai.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Sep 2024 10:00:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:55193/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55193/tags/ai-safety/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Addressing Catastrophic Risks in AI Development</title>
       <link>http://localhost:55193/posts/240924-example/</link>
@@ -28,18 +28,6 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;
 &lt;p&gt;At TragectoryAI, we&amp;rsquo;re tackling these challenges through:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TragectoryAI</title>
-      <link>http://localhost:55193/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55193/about/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:55193/images/trajectoryai.png&#34; alt=&#34;TragectoryAI&#34;  /&gt;
-&lt;/p&gt;
-&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it&amp;rsquo;s a hub for collaboration in the pursuit of a safe and beneficial AI future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a focused environment where rigorous analysis and innovative solutions are cultivated to reduce the most serious risks from AI&amp;rsquo;s rapid development.&lt;/p&gt;
-&lt;p&gt;At Trajectory, we understand the critical importance of safeguarding against potential risks associated with AI development. Our focus is on identifying, analyzing, and mitigating these risks to ensure that AI systems remain aligned with human values and interests.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,9 @@ title: "TragectoryAI"
 
 
 ---
+
+![TragectoryAI](/images/trajectoryai.png)
+
 # About
 Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspace—it's a hub for collaboration in the pursuit of a safe and beneficial AI future. Designed specifically for professionals and researchers dedicated to AI safety, Trajectory provides a focused environment where rigorous analysis and innovative solutions are cultivated to reduce the most serious risks from AI's rapid development.
 
@@ -17,7 +20,7 @@ Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) t
 # Contact
 
 - [Canada AI Governance Slack](https://canada-ais.slack.com)
-- [hello@trajectoryai.org](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hello@trajectoryai.org&tf=1)
+- [mariogibney@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mariogibney@gmail.com&tf=1)
 
 # Meetups
 - [Toronto AI Aligners](https://www.meetup.com/toronto-ai-aligners) - AI Safety meetup every Thursday.

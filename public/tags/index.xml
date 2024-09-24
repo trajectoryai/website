@@ -1,95 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Trajectory</title>
-    <link>http://localhost:35821/tags/</link>
-    <description>Recent content in Tags on Trajectory</description>
-    <generator>Hugo -- 0.133.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:35821/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on TragectoryAI</title>
+    <link>http://localhost:55193/tags/</link>
+    <description>Recent content in Tags on TragectoryAI</description>
+    <image>
+      <title>TragectoryAI</title>
+      <url>http://localhost:55193/images/trajectoryai.png</url>
+      <link>http://localhost:55193/images/trajectoryai.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 10:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:55193/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docs</title>
-      <link>http://localhost:35821/tags/docs/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/docs/</guid>
+      <title>AI Safety</title>
+      <link>http://localhost:55193/tags/ai-safety/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:55193/tags/ai-safety/</guid>
       <description></description>
     </item>
     <item>
-      <title>PaperMod</title>
-      <link>http://localhost:35821/tags/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/papermod/</guid>
+      <title>Ethics</title>
+      <link>http://localhost:55193/tags/ethics/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:55193/tags/ethics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Css</title>
-      <link>http://localhost:35821/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>http://localhost:35821/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:35821/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>http://localhost:35821/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>http://localhost:35821/tags/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gist</title>
-      <link>http://localhost:35821/tags/gist/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/gist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:35821/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:35821/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Syntax</title>
-      <link>http://localhost:35821/tags/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>http://localhost:35821/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/tags/emoji/</guid>
+      <title>Research</title>
+      <link>http://localhost:55193/tags/research/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:55193/tags/research/</guid>
       <description></description>
     </item>
   </channel>

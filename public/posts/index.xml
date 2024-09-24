@@ -1,61 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Trajectory</title>
-    <link>http://localhost:35821/posts/</link>
-    <description>Recent content in Posts on Trajectory</description>
-    <generator>Hugo -- 0.133.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:35821/posts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Blog Posts on TragectoryAI</title>
+    <link>http://localhost:55193/posts/</link>
+    <description>Recent content in Blog Posts on TragectoryAI</description>
+    <image>
+      <title>TragectoryAI</title>
+      <url>http://localhost:55193/images/trajectoryai.png</url>
+      <link>http://localhost:55193/images/trajectoryai.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 10:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:55193/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide For L2</title>
-      <link>http://localhost:35821/posts/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/markdown-syntax.fr/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide For RTL</title>
-      <link>http://localhost:35821/posts/markdown-syntax.fa/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/markdown-syntax.fa/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:35821/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:35821/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>http://localhost:35821/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:35821/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:35821/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35821/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <title>Addressing Catastrophic Risks in AI Development</title>
+      <link>http://localhost:55193/posts/240924-example/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:55193/posts/240924-example/</guid>
+      <description>&lt;h1 id=&#34;addressing-catastrophic-risks-in-ai-development&#34;&gt;Addressing Catastrophic Risks in AI Development&lt;/h1&gt;
+&lt;p&gt;As artificial intelligence continues to advance at an unprecedented rate, it&amp;rsquo;s crucial that we address the potential catastrophic risks associated with its development. At TragectoryAI, we&amp;rsquo;re committed to exploring and implementing safeguards to ensure that AI remains aligned with human values and interests.&lt;/p&gt;
+&lt;h2 id=&#34;key-areas-of-concern&#34;&gt;Key Areas of Concern&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Alignment Problem&lt;/strong&gt;: Ensuring AI systems&amp;rsquo; goals and actions align with human values.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robustness&lt;/strong&gt;: Developing AI that performs reliably in various environments and scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interpretability&lt;/strong&gt;: Creating AI systems whose decision-making processes can be understood and audited by humans.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;
+&lt;p&gt;At TragectoryAI, we&amp;rsquo;re tackling these challenges through:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
