@@ -1,5 +1,6 @@
 ---
 title: "TragectoryAI"
+draft: false
 ---
 
 

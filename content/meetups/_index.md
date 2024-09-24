@@ -1,5 +1,5 @@
 ---
-title: "AI Safety Meetups"
+title: "Meetups"
 ---
 
-Welcome to our AI Safety Meetups page. Here you'll find information about our upcoming and past events.
+Explore the latest meetups. 

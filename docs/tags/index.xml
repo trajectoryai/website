@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on TragectoryAI</title>
+    <link>https://trajectoryai.org/tags/</link>
+    <description>Recent content in Tags on TragectoryAI</description>
+    <image>
+      <title>TragectoryAI</title>
+      <url>https://trajectoryai.org/images/trajectoryai.png</url>
+      <link>https://trajectoryai.org/images/trajectoryai.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 10:00:00 -0400</lastBuildDate>
+    <atom:link href="https://trajectoryai.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Safety</title>
+      <link>https://trajectoryai.org/tags/ai-safety/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/tags/ai-safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>https://trajectoryai.org/tags/ethics/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://trajectoryai.org/tags/research/</link>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>https://trajectoryai.org/tags/research/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
