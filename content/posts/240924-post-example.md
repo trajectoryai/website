@@ -7,7 +7,7 @@ tags: ["AI Safety", "Research", "Ethics"]
 
 # Addressing Catastrophic Risks in AI Development
 
-As artificial intelligence continues to advance at an unprecedented rate, it's crucial that we address the potential catastrophic risks associated with its development. At TragectoryAI, we're committed to exploring and implementing safeguards to ensure that AI remains aligned with human values and interests.
+As artificial intelligence continues to advance at an unprecedented rate, it's crucial that we address the potential catastrophic risks associated with its development. At TrajectoryAI, we're committed to exploring and implementing safeguards to ensure that AI remains aligned with human values and interests.
 
 ## Key Areas of Concern
 
@@ -17,7 +17,7 @@ As artificial intelligence continues to advance at an unprecedented rate, it's c
 
 ## Our Approach
 
-At TragectoryAI, we're tackling these challenges through:
+At TrajectoryAI, we're tackling these challenges through:
 
 - Collaborative research projects
 - Regular meetups and knowledge-sharing sessions
