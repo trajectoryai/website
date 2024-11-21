@@ -1,5 +1,5 @@
 baseURL: "https://trajectoryai.org/"
-title: "TrajectoryAI"
+title: "Trajectory Labs"
 paginate: 5
 theme: PaperMod
 enableRobotsTXT: true
@@ -13,10 +13,10 @@ minify:
 
 params:
   env: production
-  title: "TrajectoryAI"
+  title: "Trajectory Labs"
   description: "A hub for collaboration in the pursuit of a safe and beneficial AI future, located in Toronto, Canada."
   keywords: [AI Safety, Collaboration, Research, Toronto]
-  author: "TrajectoryAI Team"
+  author: "Trajectory Labs Team"
   images: ["/images/trajectoryai.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -38,7 +38,7 @@ params:
   tocopen: false
 
   homeInfoParams:
-    Title: "Welcome to TrajectoryAI"
+    Title: "Welcome to Trajectory Labs"
     Content: "Nestled in the heart of Toronto, Canada, Trajectory is a hub for collaboration in the pursuit of a safe and beneficial AI future. We provide a focused environment for professionals and researchers dedicated to AI safety."
 
   socialIcons:
