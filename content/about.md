@@ -13,7 +13,7 @@ Nestled in the heart of Toronto, Canada, Trajectory is more than just a workspac
 
 At Trajectory, we understand the critical importance of safeguarding against potential risks associated with AI development. Our focus is on identifying, analyzing, and mitigating these risks to ensure that AI systems remain aligned with human values and interests.
 
-Trajectory is located at [100 University Ave](https://maps.app.goo.gl/v1LEbqWVmmVQGxpcA), and is free to use for approved members working on reducing catastrophic AI risk. You can apply to become a member using [this form](https://airtable.com/appATvokZwUid8pMG/shrvbbpq9clEvXaOH).
+Trajectory is located at [100 University Ave](https://maps.app.goo.gl/v1LEbqWVmmVQGxpcA), and is free to use for approved members working on reducing catastrophic AI risk. You can apply to become a member using [this form](https://[https://airtable.com/appENOk4eLEqcoZ6c/shrnwgit6lTM5UyvL).
 
 Trajectory is funded by [Open Philanthropy](https://www.openphilanthropy.org/) through [Effective Altruism Canada](https://effectivealtruismcanada.com/). 
 
